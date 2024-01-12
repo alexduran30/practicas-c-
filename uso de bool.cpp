@@ -1,3 +1,6 @@
+//estamos poniendo en practica el uso de bool
+//donde la unica forma en la que sea FALSO es si el valor es CERO
+
 #include <iostream>
 using namespace std;
 
